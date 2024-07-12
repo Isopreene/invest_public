@@ -1,0 +1,6 @@
+openai
+Telethon
+tinkoff-investments
+tqdm
+schedule
+pytz
